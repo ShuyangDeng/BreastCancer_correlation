@@ -1,6 +1,6 @@
 # BreastCancer_correlation
 #### 2019 Fall project
-### 1. files with *Rmd are code run in CPU
+### Files with *Rmd are code run in CPU
 #### &nbsp; &nbsp; &nbsp;  1006 -- Data cleaning
 #### &nbsp; &nbsp; &nbsp; heatmap -- Heatmaps
 #### &nbsp; &nbsp; &nbsp; 1027 -- Find nearest(high correlation) gene of the whole gene table to the 3 gene separately (ERBB2,      CCNB1, CENPF)
